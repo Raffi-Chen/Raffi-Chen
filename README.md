@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raffi-Chen
 - 👀 I’m interested in Civil Engineering and Environmental Science.
-- 🌱 I’m currently learning Engineering III
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Engineering IV
+- 💞️ I’m looking to collaborate on ... not really much Engineering-related at the moment
 - 📫 How to reach me: rchen41@charlottesvilleschools.org or raffichen12@gmail.com
 
 <!---
