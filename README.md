@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raffi-Chen
-- 👀 I’m interested in Civil Engineering and Environmental Science.
-- 🌱 I’m currently learning Engineering IV
-- 💞️ I’m looking to collaborate on ... not really much Engineering-related at the moment
-- 📫 How to reach me: rchen41@charlottesvilleschools.org or raffichen12@gmail.com
+- 👀 I’m interested in land use and transportation planning.
+<!--- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on ... not really much Engineering-related at the moment-->
+- 📫 How to reach me: raffichen12@gmail.com
 
 <!---
 Raffi-Chen/Raffi-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
